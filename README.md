@@ -21,30 +21,27 @@ Type: Excel Macro-Enabled Workbook
 Macros Enabled: Yes 
 
 🧠 What I Learned:
-How to build Excel dashboards from scratch
-Writing and editing VBA macros for automation
-Creating dropdown menus and interactive forms
-Using Excel formulas for data processing
-Designing professional-looking spreadsheets
-Error handling and data validation
-Organizing data to suit business and analytical use cases
+-How to build Excel dashboards from scratch
+-Writing and editing VBA macros for automation
+-Creating dropdown menus and interactive forms
+-Using Excel formulas for data processing
+-Designing professional-looking spreadsheets
+-Error handling and data validation
+-Organizing data to suit business and analytical use cases
 
 🧾 Certificate:
 I completed the “Introduction to MS Excel” course from Simply Learned.
 📌 https://simpli-web.app.link/e/zpqbNCNrTUb
 
-🚀 Future Improvements:
-Add userform-based data entry
-Integrate external data through Power Query
-Expand this into a more advanced tool using Power BI
+Screenshot
 <img width="1858" height="926" alt="Dashboard_Screenshot " src="https://github.com/user-attachments/assets/8acd13a6-627c-4e59-bdb2-53ad7e497973" />
 
 
 🔗 How to Use:
-Download the .xlsm file
-Enable Macros when prompted
-Use the navigation buttons or dropdowns to interact with the workbook
-Explore the automated actions and formula-driven calculations
+-Download the .xlsm file
+-Enable Macros when prompted
+-Use the navigation buttons or dropdowns to interact with the workbook
+-Explore the automated actions and formula-driven calculations
 
 🙋‍♀️ About Me:
 I'm passionate about learning data tools like Excel, Power BI, and SQL.
