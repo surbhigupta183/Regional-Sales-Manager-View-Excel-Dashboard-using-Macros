@@ -1,4 +1,4 @@
-#Learn Excel & Build a Project – Automated Excel Dashboard (Using Macros)
+##Learn Excel & Build a Project – Automated Excel Dashboard (Using Macros)
 
 📘 Overview:
 This project showcases my learnings from a 10-hour comprehensive Excel course. I followed video tutorials and completed a structured course from Simply Learned, where I received a certificate for “Introduction to MS Excel.”
@@ -6,15 +6,21 @@ This project showcases my learnings from a 10-hour comprehensive Excel course. I
 To apply and demonstrate my skills, I built this automated workbook using advanced Excel features like formulas, formatting, and VBA Macros. This project reflects my hands-on knowledge and understanding of Excel’s capabilities in a practical scenario.
 
 🎯 Key Features:
+
 ✅ Clean, interactive Excel-based interface
 
 ✅ Use of formulas 
 
 ✅ Use of Conditional Formatting for data visualization
+
 ✅ Built-in Buttons with VBA Macros for automation
+
 ✅ Dropdowns and dynamic ranges
+
 ✅ Protected sheets with controlled access
+
 ✅ Pivot Tables 
+
 ✅ Charting/Graphing for better data presentation
 
 📂 Project File:
