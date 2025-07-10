@@ -7,7 +7,9 @@ To apply and demonstrate my skills, I built this automated workbook using advanc
 
 🎯 Key Features:
 ✅ Clean, interactive Excel-based interface
+
 ✅ Use of formulas 
+
 ✅ Use of Conditional Formatting for data visualization
 ✅ Built-in Buttons with VBA Macros for automation
 ✅ Dropdowns and dynamic ranges
